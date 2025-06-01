@@ -9,6 +9,7 @@ Cara Kerja Aplikasi:
 5. Hasil perhitungan akan ditampilkan pada layar aplikasi.
 
 Rumus Yang Digunakan:
+
 Q=m⋅c⋅ΔT
 
 Keterangan:
