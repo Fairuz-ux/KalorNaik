@@ -10,6 +10,7 @@ Cara Kerja Aplikasi:
 
 Rumus Yang Digunakan:
 Q=m⋅c⋅ΔT
+
 Keterangan:
 Q = kalor (Joule)
 m = massa zat (kg atau gram)
