@@ -13,7 +13,7 @@ Q=m⋅c⋅ΔT
 
 Keterangan:
 
-Q = kalor (Joule)
-m = massa zat (kg atau gram)
-c = kalor jenis zat (J/kg°C atau J/g°C)
-ΔT = perubahan suhu = T akhir - T awal
+Q = kalor (Joule).
+m = massa zat (kg atau gram).
+c = kalor jenis zat (J/kg°C atau J/g°C).
+ΔT = perubahan suhu = T akhir - T awal.
